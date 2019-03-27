@@ -1,2 +1,3 @@
-#Steel Plant Program
+# Steel Plant Program
+
 Author: Sudipta Bhattacharyya
